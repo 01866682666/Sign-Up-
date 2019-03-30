@@ -1,0 +1,84 @@
+body{
+				background:url("image/bl.jpg");
+				background-repeat:no-repeat;
+				font-family:Arial;
+				background-size:100%;
+				}
+.form			{margin:auto;
+				width:250px;
+				transition:1s;
+				opacity:0.5;
+				box-size:border-box;
+				padding:10px 5px;
+				outline:none;
+				border:none;
+				border-radius:8px;
+				color:black;
+				margin-top:10px ;
+				background:rgba(50,50,50,0.8);}
+	
+#head				{text-align:center;
+				      color:white;
+					  text-transform:uppercase;}	
+.text				{  cursor:pointer;
+						margin:2px;
+						padding:4px;
+						width:100%;
+						border:none;
+						outline:none;
+						box-size:border-box;
+						border-radius:5px;
+						}
+.button				{cursor:pointer;
+						width:80%;
+						box-size:border-box;
+						padding:4px;
+						margin-left:30px;
+						
+						border-radius:40px;
+						outline:none;
+						border:none;
+						padding:10px;
+						margin-top:10px;
+						margin-bottom:2px;
+						color:black;
+						font-size:20px;}
+.button:hover{
+                               background:green;
+								transition:1s;
+								color:white;
+								font-size:25px;
+								}
+ .image                        {
+								width:100px;
+								height:150px;
+								margin:auto;
+								display:block;}
+				
+.ref						{text-align:center;
+						      color:white;
+							  border:none;}
+							  
+							  
+.ref:hover{background:orange;
+		 color:white;}
+
+
+.form:hover          {background:blue;
+                     color:white;
+					 border:10px green;
+					 border-radius:50px}
+
+
+a                {text-decoration:none;
+                   margin-left:50px;
+				   color:blue;}
+			
+
+
+
+
+
+
+
+					
